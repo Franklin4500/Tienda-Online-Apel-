@@ -1,0 +1,49 @@
+body {
+    /*background-color: rgb(204, 201, 201) Fondo azul */
+    background-image: url("https://c.wallhere.com/photos/2e/c1/1920x1080_px_Gray_Background-1207122.jpg!d");
+    background-size: cover;
+  }
+  
+.login {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/625/749/non_2x/vector-grey-geometric-abstract-backgroundfor-website-wallpapers-bussines-templates.jpg");
+    background-size: cover;      
+    width: 500px;
+    height: 340px;
+    border: 1px solid;
+    box-shadow: 0 0 100px rgb(0, 0, 0); /* Imagen para FONDO GUAPISIMa: https://www.ringtina.com.ar/Descargar/Fondos%20de%20Pantalla/Abstractos/ImgAbstractos%20147.jpg */
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 200px;     
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+  p{
+    margin-top: 30px;
+    
+  }
+
+  h1{
+    margin-bottom: 30px;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+  }
+
+  input{
+    width: 100px;
+    height: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    
+  }
+  img{
+    float: left;
+  }
+
+  .ap {
+    text-align: left;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+

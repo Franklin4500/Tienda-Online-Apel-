@@ -1,0 +1,119 @@
+body {
+  background-image: url("https://c.wallhere.com/photos/2e/c1/1920x1080_px_Gray_Background-1207122.jpg!d");
+  background-size: cover;
+}
+
+/*  https://www.ringtina.com.ar/Descargar/Fondos%20de%20Pantalla/Abstractos/ImgAbstractos%20147.jpg*/
+.menu {
+  width: 200px;
+  height: 100px;
+  float: left;
+}
+
+.menu:hover {
+  height: 135px;
+  transition: 0.3s;
+}
+
+nav {
+  background-color: rgb(245, 245, 245);
+  width: 800px;
+  height: 100px;
+  margin: 0 auto;
+  box-shadow: 0 0 100px rgb(0, 0, 0);
+
+}
+
+.apel {
+  margin-left: 50px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  width: 100px;
+  height: 50px;
+}
+
+.apel:hover {
+  margin-top: 40px;
+  transition: 0.3s;
+}
+
+.icon {
+  margin: 0 auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding: 5px;
+  width: 40px;
+  display: block;
+
+}
+
+.textoBar {
+  font-size: 1.2em;
+  color: rgba(255, 255, 255, 0);
+  text-align: center;
+
+}
+
+.textoBar:hover {
+  color: rgb(255, 255, 255);
+  transition: 0.4s;
+}
+
+
+#uno {
+  background-color: #000000;
+  /* Rojo */
+}
+
+#dos {
+  background-color: #333333;
+  /* Verde */
+}
+
+#tres {
+  background-color: #666666;
+  /* Azul */
+}
+
+#cuatro {
+  background-color: #000000;
+  /* Amarillo */
+}
+
+.forma {
+  margin: 0 auto;
+  width: 1000px;
+  height: auto;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/000/625/749/non_2x/vector-grey-geometric-abstract-backgroundfor-website-wallpapers-bussines-templates.jpg");
+  background-size: cover;
+  padding: 40px;
+  padding-top: 80px;
+  border-collapse: collapse;
+  box-shadow: 0 0 100px rgb(0, 0, 0);
+}
+
+.titulo {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.intro {
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ipro {
+  float: right;
+}
+
+.txtimg {
+  font-size: larger;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: italic;
+  text-decoration: underline;
+  font-weight: bold;
+
+}
+
+.link {
+  text-decoration: none;
+}

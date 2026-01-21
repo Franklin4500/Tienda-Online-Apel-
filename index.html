@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <link type="text/css" rel="stylesheet" href="css/loginStyle.css">
+    <title>Iniciar sesion</title>
+    <script>
+        function verificarCredenciales() {
+            var nombreUsuario = document.getElementsByName("user")[0].value;
+            var contraseña = document.getElementsByName("pass")[0].value;
+
+            if (nombreUsuario === "admin" && contraseña === "admin") {
+                // Las credenciales son correctas, envía el formulario
+                return true;
+            } else {
+                // Las credenciales son incorrectas, evita el envío del formulario
+                alert("Usuario o contraseña incorrectos. Inténtalo de nuevo.");
+                return false;
+            }
+        }
+    </script>
+</head>
+
+<body>
+
+    <div class="login">
+        <img src="imagenes/icon4.png">
+        <h1 class="ap">APEL</h1>
+        <h1>Iniciar Sesion</h1>
+        <form action="pagina1.html" method="get" onsubmit="return verificarCredenciales();">
+
+            <p><label>Nombre de usuario: <input type="text" name="user"></label></p>
+            
+            <p><label>Contraseña: <input type="password" name="pass"></label></p>
+
+            <input type="submit" name="Enviar" />
+            <input type="reset" name="Borrar todo" />
+
+        </form>
+    </div>
+
+</body>
+
+</html>
