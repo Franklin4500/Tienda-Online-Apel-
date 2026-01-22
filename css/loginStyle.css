@@ -1,5 +1,4 @@
 body {
-    /*background-color: rgb(204, 201, 201) Fondo azul */
     background-image: url("https://c.wallhere.com/photos/2e/c1/1920x1080_px_Gray_Background-1207122.jpg!d");
     background-size: cover;
   }
@@ -10,23 +9,19 @@ body {
     width: 500px;
     height: 340px;
     border: 1px solid;
-    box-shadow: 0 0 100px rgb(0, 0, 0); /* Imagen para FONDO GUAPISIMa: https://www.ringtina.com.ar/Descargar/Fondos%20de%20Pantalla/Abstractos/ImgAbstractos%20147.jpg */
+    box-shadow: 0 0 100px rgb(0, 0, 0); 
     text-align: center;
     margin: 0 auto;
     margin-top: 200px;     
-    
     font-family: Georgia, 'Times New Roman', Times, serif;
-    
 }
 
   p{
     margin-top: 30px;
-    
   }
 
   h1{
     margin-bottom: 30px;
-    
     font-family: Georgia, 'Times New Roman', Times, serif; 
   }
 
