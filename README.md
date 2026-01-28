@@ -15,6 +15,6 @@ El objetivo principal del proyecto fue practicar y demostrar habilidades de maqu
 - Simulación de inicio de sesión mediante validación básica en frontend
 - Diseño orientado a experiencia de usuario (UI)
 
-## Importante: El proyecto no cuenta con base de datos ni comunicación con servidores.
+- Importante: El proyecto no cuenta con base de datos ni comunicación con servidores.
 
-- Para iniciar la navegación y observar la página, click en el siguiente link: 
+## Para iniciar la navegación y observar la página, click en el siguiente link: 
