@@ -18,3 +18,4 @@ El objetivo principal del proyecto fue practicar y demostrar habilidades de maqu
 - Importante: El proyecto no cuenta con base de datos ni comunicación con servidores.
 
 ## Para iniciar la navegación y observar la página, click en el siguiente link: 
+https://franklin4500.github.io/Tienda-Online-Apel-/
